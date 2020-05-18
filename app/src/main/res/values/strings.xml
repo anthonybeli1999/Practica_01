@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Practica01</string>
+    <string name="tv_titulo" translatable="false">BIENVENIDO</string>
+    <string name="et_frase1" translatable="false">Ingrese la primera frase</string>
+    <string name="et_frase2" translatable="false">Ingrese la segunda frase</string>
+    <string name="bt_ingresar" translatable="false">Comprobar</string>
+    <string name="tv_cantidad1" translatable="false">Vocales cerradas en \nla primera frase</string>
+    <string name="tv_cantidad2" translatable="false">Vocales cerradas en \nla segunda frase</string>
+    <string name="tv_igualdad1" translatable="false">Son iguales</string>
+    <string name="tv_igualdad2" translatable="false">No son iguales</string>
+</resources>

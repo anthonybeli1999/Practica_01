@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Practice01</string>
+    <string name="tv_titulo">WELCOME</string>
+    <string name="et_frase1">Enter the first sentence</string>
+    <string name="et_frase2">Enter the second sentence</string>
+    <string name="bt_ingresar">Check</string>
+    <string name="tv_cantidad1">Closed vowels in \nthe first sentence</string>
+    <string name="tv_cantidad2">Closed vowels in \nthe second sentence</string>
+    <string name="tv_igualdad1">They are equal</string>
+    <string name="tv_igualdad2">They are not equal</string>
+</resources>
